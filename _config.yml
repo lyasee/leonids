@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Lyasee
+title: lyasee
 email: lyasee@naver.com
 description: A simple and awesome blog!
 url: https://lyasee.github.io # the base hostname & protocol for your site
@@ -34,10 +34,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Lyasee
+  name: lyasee
   avatar: leonids-logo.png
   job: "Developer"
-  bio: "새로운 것을 좋아하는 개발자!!!"
+  bio: "새로운 것을 좋아합니다."
   email: lyasee@naver.com
   disqus-shortname: lyasee
   twitter: #username
@@ -70,3 +70,10 @@ owner:
   codepen: #username
   telegram: #username
   reddit: #username
+
+
+################
+paginate: 5
+paginate_path : "/page:num/"
+gems:
+  - jekyll-paginate
