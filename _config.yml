@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Lyasee
 email: zourenyuan@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
@@ -33,12 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Lyasee
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  job: "Developer"
+  bio: "자유로운 개발자!"
   email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
+  disqus-shortname: lyasee
   twitter: renyuan814 #username
   facebook: #username
   google:
