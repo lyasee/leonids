@@ -6,7 +6,7 @@
 title: Lyasee
 email: lyasee@naver.com
 description: A simple and awesome blog!
-url: https://lyasee.github.io/lyasee # the base hostname & protocol for your site
+url: https://lyasee.github.io # the base hostname & protocol for your site
 keywords: ["Programming", "NodeJS", "JAVA"]
 
 
