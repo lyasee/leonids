@@ -15,9 +15,9 @@
       {% for page in site.pages %} {% if page.title %}
       <li class="nav-item">
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-        {% unless forloop.last %}
+        <!-- {% unless forloop.last %}
           <span>/</span>
-        {% endunless %}
+        {% endunless %} -->
       </li>
       {% endif %} {% endfor %}
     </ul>
