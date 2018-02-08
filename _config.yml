@@ -4,10 +4,10 @@
 ####################################
 #
 title: Lyasee
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+email: lyasee@naver.com
+description: A simple and awesome blog!
+url: https://lyasee.github.io/lyasee # the base hostname & protocol for your site
+keywords: ["Programming", "NodeJS", "JAVA"]
 
 
 #
@@ -37,10 +37,10 @@ owner:
   name: Lyasee
   avatar: leonids-logo.png
   job: "Developer"
-  bio: "자유로운 개발자!"
-  email: zourenyuan@gmail.com
+  bio: "새로운 것을 좋아하는 개발자!!!"
+  email: lyasee@naver.com
   disqus-shortname: lyasee
-  twitter: renyuan814 #username
+  twitter: #username
   facebook: #username
   google:
     plus: #username
@@ -49,8 +49,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  gitlab: #username
+  github: lyasee #username
+  gitlab: c335544 #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
@@ -60,7 +60,7 @@ owner:
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: lyasee #username
   dribbble: #username
   youtube: #username
   soundcloud: #username
