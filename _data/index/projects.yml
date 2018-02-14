@@ -1,4 +1,5 @@
-- name: 학교 커뮤니티
-  descr: "suki.kr"
+- name: ngx-time-ago-kor
+  descr: Angular time ago pipe!
   image: pong.png
-  github: https://github.com/
+  github: https://github.com/lyasee/ngx-time-ago-kor
+  npm: https://www.npmjs.com/package/ngx-kor-time-ago
