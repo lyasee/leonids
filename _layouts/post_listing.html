@@ -25,6 +25,7 @@ layout: default
       <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-external-link"></i></a>
       {% endif %}
     </h4>
+    {% include post_tags.html %}
 
     {% if post.author %}
       {% assign author = site.data.authors[post.author] %}
