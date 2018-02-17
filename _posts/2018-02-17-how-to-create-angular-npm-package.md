@@ -4,6 +4,9 @@ title: How to create npm package with angular
 excerpt: "간단한 프로젝트를 만들고, npm에 배포하는 과정을 설명합니다."
 categories: angular
 comments: true
+tags: 
+- angular
+- npm
 ---
 간단한 프로젝트를 만들고, npm에 배포하는 과정을 설명합니다.
 
