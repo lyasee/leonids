@@ -2,3 +2,6 @@ _site
 .sass-cache
 .ruby-version
 _drafts
+.idea/
+Gemfile
+*.lock

@@ -1,6 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: WareValley
-  link: https://www.warevalley.com/
+  link:
   date: 2018.02 ~
   job: Software Developer
