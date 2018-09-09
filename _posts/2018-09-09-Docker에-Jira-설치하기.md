@@ -53,12 +53,11 @@ exit
 
 만약 연결할 디비가 없다면 도커에 설치해서 사용
 ````
-docker run -d \
-	-p 13306:3306 \
-	--restart always \
-	-e MYSQL_ALLOW_EMPTY_PASSWORD=true \
-	--name mysql \
-	mysql:5.6
+docker run -d -p 13306:3306 \
+--restart always \
+-e MYSQL_ALLOW_EMPTY_PASSWORD=true \
+--name mysql \
+mysql:5.6
 ````
 
 #### MySQL 설정
