@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, GitHub, Java, HTML/CSS, NodeJS
-percentage: 99, 65, 70, 50, 70
+aspects: Motivation, GitHub, HTML/CSS, NodeJS, Spring Boot, VueJS, Angular2+
+percentage: 99, 65, 60, 80, 80, 80, 60
